@@ -1,0 +1,325 @@
+*{
+    margin: 0;
+    padding: 0;
+  box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin:0 auto;
+}
+
+
+header{
+    border-bottom: 2px solid #DEDBDB;
+height: 140px;
+padding: 45px ;
+margin-bottom: 46px;
+}
+header .ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .ota .divv{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+} 
+header .ota .divv i{
+    color: #F0400F;
+    font-size: 30px;
+}
+  
+main{
+    margin-bottom: 50px;
+}
+  .menu{
+    background: #fffefe;
+    border: 1px solid #DEDBDB;
+    width: 650px;
+    height: 786px;
+    margin: 0 auto;
+    border-radius: 50px;
+
+  }
+  .menu .bosh{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-top:63px;
+  margin-bottom: 121px;
+  }
+  .menu .bosh .ikonn{
+color: #F0400F;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 20px;
+  }
+
+    h1{
+ 
+font-weight: 700;
+font-size: 48px;
+line-height: 58.09px;
+letter-spacing: 0%;
+color: #0E0D5D;
+text-align: center;
+margin-bottom: 30px;
+    }
+
+ .kim{
+    width: 533px;
+    height: 70px;
+    background: #F5F5F5;
+border-radius: 20px;
+padding: 8px 11px;
+display: flex;
+align-items: center;
+gap: 42px;
+margin: 0 auto;
+margin-bottom: 25px;
+ }
+
+.kim span{
+
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33.89px;
+    letter-spacing: 0%;
+    padding: 10px 40px;
+    background-color: white;
+    border-radius: 15px;
+}
+.kim p{
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33.89px;
+    letter-spacing: 0%;
+    padding: 10px 40px;
+    color: #757575;
+}
+
+ .kim p:hover{
+    background-color: white;
+    border-radius: 15px;
+    color: black;
+ }
+
+input{
+    width: 533px;
+    height: 70px;
+    background: #FAFAFA;
+ color: #757575B2;
+ border-radius:20px;
+ border: 1px solid #75757530;
+font-weight: 500;
+font-size: 24px;
+line-height: 29.05px;
+padding: 20px 51px;
+margin-top: 40px;
+  margin-left: 50px;
+  outline: none;
+color: black;
+}
+#kuz{
+    font-size: 24px;
+    margin-left: -80px;
+
+}
+
+.qr{
+font-weight: 500;
+font-size: 24px;
+line-height: 29.05px;
+letter-spacing: 0%;
+color: #757575B2;
+margin-top: 25px;
+text-align: center;
+margin-bottom: 18px;
+}
+button{
+    color: white;
+    background: #F69E86;
+     width: 202px;
+     height: 67px;
+     border-radius: 20px;
+     border: none;
+font-weight: 700;
+font-size: 24px;
+line-height: 29.05px;
+letter-spacing: 0%;
+margin-left: 385px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
